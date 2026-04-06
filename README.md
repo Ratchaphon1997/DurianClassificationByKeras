@@ -41,9 +41,9 @@
 * ขยายขอบเขตการจำแนกไปยังสายพันธุ์พื้นเมืองอื่นๆ
 
 ## 📝 จัดทำโดย
-**National Institute of Development Administration (NIDA)** (2022-2024)
-* **Program:** Master of Science Program Data analysis and Data science (DADS)
-* **ผู้จัดทำ:** นายรัชพล ขุนทิพย์สมบัติ
+
+
+
 
 ## 📚 เครื่องมือที่ใช้ (Tools & Libraries)
 * Python
