@@ -16,6 +16,8 @@
     * หลงลับแล (Longlubae)
     * หมอนทอง (Monthong)
 * **การจัดการข้อมูล:** ใช้เทคนิค **Data Augmentation** (Resizing, Rescaling, Rotation, Zoom) เพื่อเพิ่มความหลากหลายของข้อมูลและป้องกัน Overfitting
+* <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5766ad64-fefb-47fc-9d36-0b1a27659b6d" />
+
 
 ### 2. โมเดลที่ใช้เปรียบเทียบ (Model Selection)
 โครงงานนี้ได้ทำการเปรียบเทียบประสิทธิภาพของโมเดล Pre-trained ยอดนิยม 4 รูปแบบ:
